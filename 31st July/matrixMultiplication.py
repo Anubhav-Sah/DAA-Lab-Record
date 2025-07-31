@@ -1,13 +1,13 @@
 def matrix_multiplication(matrix1, matrix2, row1, row2, col1, col2):
     if col1 != row2:
-        return -1  # Incompatible matrices for multiplication
-    # Initialize the multiplication matrix with zero values
+        return -1  
+    
     multiplication_matrix = [[0 for _ in range(col2)] for _ in range(row1)]
     
     for i in range(row1):
         for j in range(col2):
             for k in range(col1):
-                multiplication_matrix[i][j] += matrix1[i][k] * matrix2[k][j]  # Accumulate the sum for each element
+                multiplication_matrix[i][j] += matrix1[i][k] * matrix2[k][j] 
     return multiplication_matrix
 
 matrix1 = [[1, 2],
