@@ -7,4 +7,4 @@ Q) Question  the following question in details.
 5) How performance of the algorithm measured $ define then Explain all 3 cases for them with example.
 6) What is Bruteforce method? How it works? Explain two algorithm using Bruteforce approach. Mention its applications. 
 7) What is divide and conqure strategy? Explain Binary search, Merge sort for its algorithm example analysis and application.
-8) What os divide and conqure strategy and its 3 variations? Explain and 2 algorithm using divide and conqure with example analysis and application.
+8) What os decrease and conqure strategy and its 3 variations? Explain and 2 algorithm using decrease and conqure with example analysis and application.
