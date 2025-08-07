@@ -3,3 +3,4 @@ Q) Question  the following question in details.
 1) What is an algorithm? Explain the criteria that algorithm must satisfy.
 2) Define asysnptotic notations. Explain all asysnptotic notations with neat diagrams and some examples.
 3) Explain the general plan for the mathematical analysis of non recursive algorithm. Explain one non-recursive algorithm for its algorithm, example tracing analysis and it's application.
+4) https://docs.google.com/document/d/1hpdklMT72A_vOm-FN0bnG3Sgd8Ar2Qu7ctCUa4yo/edit?tab=t.ad22jsmtf78a
