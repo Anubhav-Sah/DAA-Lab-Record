@@ -49,6 +49,6 @@ class DSU:
 
 if __name__ == '__main__':
     
-    # An edge contains, weight, source and destination
+
     edges = [[0, 1, 10], [1, 3, 15], [2, 3, 4], [2, 0, 6], [0, 3, 5]]
     print(kruskals_mst(4, edges))
